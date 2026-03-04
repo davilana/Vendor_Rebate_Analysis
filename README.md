@@ -19,7 +19,7 @@ This project analyzes vendor rebate and accrual data for 300 vendors across eigh
 ^Note: If the Excel file does not preview in GitHub, download it locally to explore analysis.
 
 **Professional Insights:**  
--Demonstrates advanced Excel skills, including clean data organization, formulas, charts, and pivot tables  
+- Demonstrates advanced Excel skills, including clean data organization, formulas, charts, and pivot tables  
 - Provides actionable insights into vendor performance and rebate trends  
 - Highlights ability to summarize and communicate financial information clearly    
 
