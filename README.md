@@ -1,25 +1,19 @@
 # Vendor Rebate & Accrual Analysis
 
 ## Project Overview
-This project analyzes vendor rebate and accrual data for 300 vendors across eight suppliers. The Excel workbook is organized with clear headers, formulas, and charts to summarize payments, track KPIs, and identify trends.
+This project analyzes vendor rebate and accrual data for 300 vendors across eight suppliers. The PDF workbook is organized with clear headers, formulas, and charts to summarize payments, track KPIs, and identify trends.
 
 ## Files Included
-- **`Vendor_Project_Official.pdf`** – Excel file with raw and analyzed data, calculations, and charts.
+- **`Vendor_Project_Official.pdf`** – PDF containing all raw and analyzed data, calculations, charts, and pivot tables.
 
 ## Key Features
 - Clean, organized dataset with clear column headers
 - Basic calculations for totals, differences, and percentages
 - Charts visualizing rebate and accrual trends
-- Easy-to-navigate workbook for reviewing vendor data
-
-## Usage Instructions
-1. Download the Excel file from this repository.
-2. Open it in Microsoft Excel or Excel Online.
-3. Review tables, formulas, and charts for insights on vendor payments.  
-   > **Note:** If the Excel file does not preview in GitHub, download it locally to explore analysis.
+- Easy-to-navigate document for reviewing vendor data
 
 ## Professional Insights
-- Demonstrates advanced Excel skills, including clean data organization, formulas, charts, and pivot tables
+- Demonstrates advanced Excel and data analysis skills, including clean organization, formulas, charts, and pivot tables
 - Provides actionable insights into vendor performance and rebate trends
 - Highlights ability to summarize and communicate financial information clearly
 
